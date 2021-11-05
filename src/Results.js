@@ -4,7 +4,7 @@ import Meaning from "./Meaning";
 export default function Results(props){
     if (props.results){
          return(
-        <div>
+        <div className="results">
            <h2>
                {props.results.word}
            </h2>
