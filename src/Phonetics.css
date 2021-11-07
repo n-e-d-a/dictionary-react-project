@@ -1,0 +1,13 @@
+.phonetics{
+    height:100px ;
+   
+}
+.phonetics .audioPlayer{
+    
+    background-color: #f1f3f4;
+    border-radius: 6px;
+}
+.phonetics .text{
+    opacity: 0.5;
+    font-weight: bold;
+}
