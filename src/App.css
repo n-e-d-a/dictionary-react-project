@@ -1,6 +1,11 @@
-.App{
-  background-color: #fdf3fd;
+body{
+  background-color: #f1f3f4;
 }
+.App{
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .App-header{
   margin:30px 0;
 }
