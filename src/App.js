@@ -13,13 +13,7 @@ export default function App() {
           <Dictionary defaultKeyWord="sunrise" />
         </main>
         <footer className="App-footer">
-          {/* Coded by{" "}
-          <a href="https://xenodochial-poitras-5501a5.netlify.app">
-            {" "}
-            Neda Zare
-          </a>
-        </footer>
-        <footer> */}
+          
           This project was coded by{" "}
           <a
             href="https://xenodochial-poitras-5501a5.netlify.app/"
